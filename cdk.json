@@ -1,5 +1,5 @@
 {
-  "app": "node bin/sagemaker-project.js",
+  "app": "node bin/sagemaker-demos.js",
   "watch": {
     "include": [
       "**"
